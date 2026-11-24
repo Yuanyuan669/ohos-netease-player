@@ -1,0 +1,28 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "brand",
+      "value": "#EC4141"
+    },
+    {
+      "name": "page_bg",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "text_main",
+      "value": "#222222"
+    },
+    {
+      "name": "text_sub",
+      "value": "#999999"
+    },
+    {
+      "name": "divider",
+      "value": "#F2F2F2"
+    }
+  ]
+}
